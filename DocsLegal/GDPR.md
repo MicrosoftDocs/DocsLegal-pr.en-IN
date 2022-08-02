@@ -1,15 +1,15 @@
 ---
 title: General Data Protection Regulation (GDPR)
-description: GDPR docs.microsoft.com.
+description: You will find GDPR at docs.microsoft.com.
 ms.topic: article
 ms.prod: legal
 layout: ContentPage
 ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
-ms.sourcegitcommit: 92176e791cecbf38ca4118125466148737f3e45f
+ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
 ms.translationtype: HT
 ms.contentlocale: en-IN
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129189135"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "141347356"
 ---
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Microsoft’s GDPR Commitments to Customers of our Generally Available Enterprise Software Products
 
@@ -17,7 +17,7 @@ ms.locfileid: "129189135"
 
 The European Union’s General Data Protection Regulation (GDPR) sets an important bar globally for privacy rights, information security and compliance. At Microsoft, we believe privacy is a fundamental right and that the GDPR is an important step forward in protecting and enabling the privacy rights of individuals.     
 
-Microsoft is committed to its own compliance with the GDPR, as well as to provide an array of products, features, documentation and resources to support our customers in meeting their compliance obligations under the GDPR. Following is a description of Microsoft’s contractual commitments to its customers concerning personal data collected from enterprise software. (For software licensed from Microsoft Commercial Licensing programs, refer directly to the Microsoft Products and Services Data Protection Addendum (DPA) at http://aka.ms/dpa)
+Microsoft is committed to its own compliance with the GDPR, as well as to provide an array of products, features, documentation and resources to support our customers in meeting their compliance obligations under the GDPR. Following is a description of Microsoft’s contractual commitments to its customers concerning personal data collected from enterprise software. (For software licensed from Microsoft Commercial Licensing programmes, refer directly to the Microsoft Products and Services Data Protection Addendum (DPA) at http://aka.ms/dpa)
 
 **Does Microsoft make commitments to its customers with regard to the GDPR?**
 
@@ -36,11 +36,11 @@ For clarity, different or lesser commitments may apply to beta or preview softwa
 Microsoft’s GDPR Terms reflect the commitments required of processors in Article 28 of the GDPR.  Article 28 requires that processors commit to:
 
 -   only use sub-processors with the consent of the controller and remain liable for sub-processors;
--   process personal data only on instructions from the controller, including with regard to transfers;
--   ensure that persons who process personal data are committed to confidentiality;
--   implement appropriate technical and organisational measures to ensure a level of personal data security appropriate to the risk;
--   assist the controller in its obligations to respond to data subjects’ requests to exercise their GDPR rights;
--   meet the GDPR’s breach notification and assistance requirements;
--   assist the controller with data protection impact assessments and consultation with supervisory authorities; 
+-   process personal data only on instructions of the controller, including those with respect to transfers;
+-   ensure that the persons, who process personal data, are committed to confidentiality;
+-   implement appropriate technical and organisational measures, in order to ensure a level of personal data security appropriate for the risk;
+-   assist the controller in its obligations to respond to requests of data subjects to exercise their GDPR rights;
+-   respond to the GDPR’s breach notification and assistance requirements;
+-   assist the controller in data protection impact assessments and consultation with supervisory authorities; 
 -   delete or return personal data at the end of provision of services; and
 -   support the controller with evidence of compliance with the GDPR.
